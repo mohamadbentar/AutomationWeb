@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Alamat Domisili</name>
+   <tag></tag>
+   <elementGuidId>09d56510-7578-438b-ad46-2fb19c0865d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/div[2]/div/form/div/div/div[13]/div/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>cf01fe3a-10c3-45d0-89cd-628dc2f7237e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block w-full focus:outline-none leading-5 border border-primary-grey bg-primary-gray rounded p-3 focus:ring-1 focus:ring-primary disabled:cursor-not-allowed disabled:opacity-50 disabled:bg-gray-300 placeholder:text-gray-400 border-primary-grey min-h-[148px]</value>
+      <webElementGuid>485ceb88-2607-42ab-b1a7-a36cddf30cc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;grid grid-cols-6&quot;]/div[@class=&quot;col-span-6 lg:col-span-4&quot;]/div[@class=&quot;pt-[50px] pb-[30px] lg:overflow-y-auto lg:h-screen&quot;]/div[@class=&quot;container max-w-3xl mx-auto&quot;]/div[2]/div[1]/form[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 mt-5 gap-[30px]&quot;]/div[1]/div[@class=&quot;mb-5 min-h-[148px]&quot;]/div[@class=&quot;relative&quot;]/textarea[@class=&quot;block w-full focus:outline-none leading-5 border border-primary-grey bg-primary-gray rounded p-3 focus:ring-1 focus:ring-primary disabled:cursor-not-allowed disabled:opacity-50 disabled:bg-gray-300 placeholder:text-gray-400 border-primary-grey min-h-[148px]&quot;]</value>
+      <webElementGuid>8b917adc-0f66-40b6-95d8-5390cc2a182d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/div[2]/div/form/div/div/div[13]/div/textarea</value>
+      <webElementGuid>72619933-8bdc-493c-ab09-564bdb62adc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Domisili*'])[1]/following::textarea[1]</value>
+      <webElementGuid>ad7d273c-4d7d-46c4-9504-5f11cf28f724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Telepon*'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>e3c4d7f2-bfde-48b6-93e6-e591a9cc43d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Pekerjaan*'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>69f0798e-1f01-4025-90bf-0d78d29f9f68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>207f6e44-69e9-4de6-ae75-500b42fa208c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Pegawai Swasta</name>
+   <tag></tag>
+   <elementGuidId>e0471f88-9774-46df-9059-85fc1ae9dfb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='multiselect-option-PEGAWAI SWASTA']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8fa82b25-ec45-4c8c-9cbb-5bba08ed34f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center justify-start box-border text-left cursor-pointer text-base leading-snug py-1 px-3 text-gray-800 bg-gray-100</value>
+      <webElementGuid>379e13ad-e21e-497b-ba61-d2c08760c297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>multiselect-option-PEGAWAI SWASTA</value>
+      <webElementGuid>7e0725c3-8c8f-4bb7-823c-74288977e6ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d4a0ebd4-38b1-4200-9492-c892ae71a4ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Pegawai Swasta</value>
+      <webElementGuid>d4aa0694-ea30-490b-9eeb-f16979ab9fde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>50784e27-b3ad-4f3c-91e7-d98df3a6fe15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pointed</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f0ed5683-969e-477f-a31e-476aa8076fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pegawai Swasta</value>
+      <webElementGuid>dbb47bc2-25e1-4ff6-8595-d8a3693ede9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;multiselect-option-PEGAWAI SWASTA&quot;)</value>
+      <webElementGuid>660967c3-5e47-4d62-9cb7-61540047a89b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='multiselect-option-PEGAWAI SWASTA']</value>
+      <webElementGuid>36e651a5-e7e2-44f4-b724-2bf798d2fbfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='multiselect-options']/li[2])[3]</value>
+      <webElementGuid>0efda71b-ce9c-447a-80a5-7d22d5c99df8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Pekerjaan*'])[1]/following::li[2]</value>
+      <webElementGuid>85de7a1b-9bf6-460c-a920-ee67332ea9d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pegawai Swasta']/parent::*</value>
+      <webElementGuid>e2f4b1cc-d1df-48cd-959c-083d71f5b62b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/ul/li[2]</value>
+      <webElementGuid>740bf6a7-3ff6-4249-8fb4-1839aa236443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'multiselect-option-PEGAWAI SWASTA' and (text() = 'Pegawai Swasta' or . = 'Pegawai Swasta')]</value>
+      <webElementGuid>9ddb37e9-8e2a-4e56-ac0e-5fc4348b6cad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

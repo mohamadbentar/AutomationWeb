@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tidak Ada</name>
+   <tag></tag>
+   <elementGuidId>56f70cc9-32f2-4e32-aa9e-ac60a176f6b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e27e39b6-2ecf-4713-8ef2-24d40407136f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leading-none transition-colors duration-300 py-3.5 px-2  rounded disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center w-full h-full bg-primary text-black hover:bg-amber-400</value>
+      <webElementGuid>3b5c9460-b1a3-45b6-8289-f2aa25561f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a22b3764-2436-48c4-841e-b00bfa34ddd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tidak Ada</value>
+      <webElementGuid>cdd8a3f8-1e79-4630-ab8e-dbae9c90cab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-radiogroup-option-7&quot;)/button[@class=&quot;leading-none transition-colors duration-300 py-3.5 px-2  rounded disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center w-full h-full bg-primary text-black hover:bg-amber-400&quot;]</value>
+      <webElementGuid>c1c0136e-8848-48d5-963e-208b07b2a4f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>404c0ba1-ae56-45b0-8c23-c32be6d0c6d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-radiogroup-option-7']/button</value>
+      <webElementGuid>2ac161d6-13e6-429c-afe2-23ff2e022a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NPWP*'])[1]/following::button[1]</value>
+      <webElementGuid>10fe9714-97b4-4a5d-b0bc-23cf4cc37721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Telepon Perusahaan'])[1]/following::button[1]</value>
+      <webElementGuid>36e398e7-a8a0-407a-aef7-3c5e8a76e14a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tidak Ada']/parent::*</value>
+      <webElementGuid>ebd62f99-1b95-410c-96cc-24d0f139c661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/button</value>
+      <webElementGuid>7b088914-044b-47de-a931-fdd2a8832235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tidak Ada' or . = 'Tidak Ada')]</value>
+      <webElementGuid>97162be3-5f4c-487d-badc-f9b37d0dbc05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

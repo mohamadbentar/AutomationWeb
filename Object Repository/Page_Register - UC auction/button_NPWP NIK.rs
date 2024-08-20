@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_NPWP NIK</name>
+   <tag></tag>
+   <elementGuidId>99036dbd-ff17-4ff0-bf6d-31cca54e6f0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4c25fec7-80be-434e-aa04-b315422ec0d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leading-none transition-colors duration-300 py-3.5 px-2  rounded disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center w-full h-full bg-light-silver text-pastel-blue</value>
+      <webElementGuid>87b90073-0ebd-44de-a0fa-619a04908ac9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c4e82609-6ead-40b8-bef7-fb87668e7fe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NPWP NIK</value>
+      <webElementGuid>a95e1aa9-1883-4ecc-a55f-d22c80aa29a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-radiogroup-option-9&quot;)/button[@class=&quot;leading-none transition-colors duration-300 py-3.5 px-2  rounded disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center w-full h-full bg-light-silver text-pastel-blue&quot;]</value>
+      <webElementGuid>7f4b7885-df1e-47db-b863-c4fa7d7f840c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>7451eb60-10bc-44f1-aed8-af30668ca98b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-radiogroup-option-9']/button</value>
+      <webElementGuid>0aa508b2-ae85-4140-a58a-a1b81cb4d231</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor NPWP'])[1]/preceding::button[1]</value>
+      <webElementGuid>11e719fb-8729-499c-9646-410b2b6a73ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Kendaraan*'])[1]/preceding::button[1]</value>
+      <webElementGuid>2a348ca5-f764-4458-8046-3e0a8a1474b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NPWP NIK']/parent::*</value>
+      <webElementGuid>652a44b8-c801-417f-a6ee-d5fa3bc20fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>142e4124-f156-421e-8306-ad3f522bae8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'NPWP NIK' or . = 'NPWP NIK')]</value>
+      <webElementGuid>eb056337-e620-4027-a1e7-ecb1e63e1b37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

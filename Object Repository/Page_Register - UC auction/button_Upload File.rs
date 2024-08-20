@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upload File</name>
+   <tag></tag>
+   <elementGuidId>18bf3c00-0ce5-4c52-b5d6-4df5683badae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>75f6e7e7-1451-4400-a90f-564109186d97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2210cb88-e017-4288-b72d-19790aa0fe39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-primary-grey text-white py-1.5 px-3 rounded text-sm leading-1</value>
+      <webElementGuid>35855eea-d966-445e-a9eb-b13cfc0bae0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload File</value>
+      <webElementGuid>ec4f1459-5ebf-46d6-9256-4a2346909047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;grid grid-cols-6&quot;]/div[@class=&quot;col-span-6 lg:col-span-4&quot;]/div[@class=&quot;pt-[50px] pb-[30px] lg:overflow-y-auto lg:h-screen&quot;]/div[@class=&quot;container max-w-3xl mx-auto&quot;]/div[2]/div[1]/form[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 mt-5 gap-[30px]&quot;]/div[1]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;px-3 py-2 border border-primary-grey rounded flex justify-between items-center border-primary-grey&quot;]/button[@class=&quot;bg-primary-grey text-white py-1.5 px-3 rounded text-sm leading-1&quot;]</value>
+      <webElementGuid>ef1e014e-b086-4dde-900d-54bb55df9fa4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>d54d7a7b-521c-47ff-8df8-12442b957039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/div[2]/div/form/div/div/div[6]/div/button</value>
+      <webElementGuid>8439708f-e1fa-4427-8b6b-4fa841517b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload KTP'])[1]/following::button[1]</value>
+      <webElementGuid>a7dd32c4-e478-4d1b-a15f-3efc3e655577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload KTP*'])[1]/following::button[1]</value>
+      <webElementGuid>51610490-9190-469f-806e-dbd391c39d4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masa Berlaku KTP*'])[1]/preceding::button[1]</value>
+      <webElementGuid>5031ee36-b3bd-459d-ad1d-eed4c70adc82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berlaku seumur hidup'])[1]/preceding::button[1]</value>
+      <webElementGuid>7aaed5e8-2f30-4172-9a6b-79ba07284036</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload File']/parent::*</value>
+      <webElementGuid>54b42a1f-8c83-46e3-a346-9a9335d0975a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>6a7e6f0c-19ea-470f-930a-27781885dc90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Upload File' or . = 'Upload File')]</value>
+      <webElementGuid>928dc8a5-cf4a-4f3f-b9e0-408fbae6b371</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

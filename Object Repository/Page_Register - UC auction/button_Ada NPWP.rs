@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ada NPWP</name>
+   <tag></tag>
+   <elementGuidId>b81c5f46-70dc-4c7b-8b39-ede76ac73be6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f092df68-4ea9-44f3-aeaa-615833b8206d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leading-none transition-colors duration-300 py-3.5 px-2  rounded disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center w-full h-full bg-light-silver text-pastel-blue</value>
+      <webElementGuid>dba29ad0-cbe3-42f8-a145-2453322b1f7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>38e6902c-ecbc-45bb-a1d8-15bc44c498c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ada NPWP</value>
+      <webElementGuid>e290888f-8cc7-4d56-b6d0-b5779d22d2cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-radiogroup-option-8&quot;)/button[@class=&quot;leading-none transition-colors duration-300 py-3.5 px-2  rounded disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center w-full h-full bg-light-silver text-pastel-blue&quot;]</value>
+      <webElementGuid>17fdf8e3-1e68-45ac-9a02-4348fde36bf7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>45418be1-6f8d-4e3b-bf88-7154d6be39c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-radiogroup-option-8']/button</value>
+      <webElementGuid>b8e9b69d-2da3-461b-8538-b16ae5a7f9ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NPWP*'])[1]/following::button[2]</value>
+      <webElementGuid>d29fec64-6dba-4bc9-aa9e-41af4d1ab516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor NPWP'])[1]/preceding::button[2]</value>
+      <webElementGuid>90e076da-deed-4c4a-b343-c3db932c0e1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ada NPWP']/parent::*</value>
+      <webElementGuid>f062e4d1-51a0-47d5-b78c-1d3a4f7e7a20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/button</value>
+      <webElementGuid>91c1ad6b-fbbc-4c79-b16e-167e58dd3132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Ada NPWP' or . = 'Ada NPWP')]</value>
+      <webElementGuid>759589b9-9a58-4ceb-8531-ed969d744ff6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

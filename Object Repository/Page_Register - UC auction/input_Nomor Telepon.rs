@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nomor Telepon</name>
+   <tag></tag>
+   <elementGuidId>0f100cc9-af1e-49ea-a410-6b39ac535c16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>30fe3c2c-78b6-4bbc-83cd-733d6e2e06d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>48fba0e8-be14-458e-9fc9-e68317bd8eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block w-full focus:outline-none leading-5 border border-primary-grey bg-primary-gray rounded px-2 py-3.5 focus:ring-1 focus:ring-primary disabled:cursor-not-allowed disabled:opacity-50 disabled:bg-gray-300 placeholder:text-gray-400 read-only:bg-gray-100 pl-11  border-primary-grey</value>
+      <webElementGuid>84b29152-0076-4aa7-a4c7-85ea6450baca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nomor Telepon</value>
+      <webElementGuid>b127b055-5e66-4689-a850-5dd25efdd7e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;grid grid-cols-6&quot;]/div[@class=&quot;col-span-6 lg:col-span-4&quot;]/div[@class=&quot;pt-[50px] pb-[30px] lg:overflow-y-auto lg:h-screen&quot;]/div[@class=&quot;container max-w-3xl mx-auto&quot;]/div[2]/div[1]/form[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 mt-5 gap-[30px]&quot;]/div[1]/div[@class=&quot;mb-5&quot;]/div[@class=&quot;relative&quot;]/input[@class=&quot;block w-full focus:outline-none leading-5 border border-primary-grey bg-primary-gray rounded px-2 py-3.5 focus:ring-1 focus:ring-primary disabled:cursor-not-allowed disabled:opacity-50 disabled:bg-gray-300 placeholder:text-gray-400 read-only:bg-gray-100 pl-11  border-primary-grey&quot;]</value>
+      <webElementGuid>5357ea0a-6fad-4019-a344-45465e95d69c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[7]</value>
+      <webElementGuid>29f9c05c-b7e9-4bb5-90b3-ff11037e9a41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/div[2]/div/form/div/div/div[14]/div/input</value>
+      <webElementGuid>ef214581-d365-4fed-8990-76ff27d99975</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/input</value>
+      <webElementGuid>73931129-08a4-43f7-9f53-ac5aac1af3cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Nomor Telepon']</value>
+      <webElementGuid>2f490c31-25be-4d33-83c6-61c021f84fba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

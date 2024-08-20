@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Copyright</name>
+   <tag></tag>
+   <elementGuidId>df88fde8-302b-4f52-bdaa-05f18f63a2b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.copyright-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='cs@ucauction.co.id'])[1]/following::p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cb180588-7153-4ac0-b149-41ea7bb7a88b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>copyright-text</value>
+      <webElementGuid>a63ad72a-7875-43a3-a26b-de0b9cb5e669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copyright © 2022 UC auction - All rights reserved</value>
+      <webElementGuid>3ae8f1c4-c219-46aa-95c4-eac564cc7441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[1]/div[@class=&quot;container&quot;]/p[@class=&quot;copyright-text&quot;]</value>
+      <webElementGuid>ecb1ccab-85ed-407f-a329-34f4dd4f1bc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cs@ucauction.co.id'])[1]/following::p[1]</value>
+      <webElementGuid>cd5c4d4e-a5e0-4d1b-b930-9af2e2486abc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(021) 22795591'])[1]/following::p[1]</value>
+      <webElementGuid>e30fd353-31a3-44fd-bbe8-496a8caadd67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Copyright © 2022 UC auction - All rights reserved']/parent::*</value>
+      <webElementGuid>e527d939-3cee-419d-8110-c5c7b98a3f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/p</value>
+      <webElementGuid>f804156d-6ddb-4fb3-b113-cbf12e7b2d91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Copyright © 2022 UC auction - All rights reserved' or . = 'Copyright © 2022 UC auction - All rights reserved')]</value>
+      <webElementGuid>a9f407ea-acef-495c-9911-17510b533fcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

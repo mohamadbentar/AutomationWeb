@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Masa Berlaku KTP</name>
+   <tag></tag>
+   <elementGuidId>f9a8eefa-2784-4776-9338-a9c692e1db5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='checkbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>64e1bf9a-de37-46d5-b93d-455619640948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>a2d0e6aa-e3ba-42d7-8896-881b7729b4c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mr-1.5 cursor-pointer disabled:bg-gray-200 disabled:cursor-not-allowed rounded</value>
+      <webElementGuid>1a35289c-f0a0-4277-81e2-692b3cb8e106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;grid grid-cols-6&quot;]/div[@class=&quot;col-span-6 lg:col-span-4&quot;]/div[@class=&quot;pt-[50px] pb-[30px] lg:overflow-y-auto lg:h-screen&quot;]/div[@class=&quot;container max-w-3xl mx-auto&quot;]/div[2]/div[1]/form[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 mt-5 gap-[30px]&quot;]/div[1]/div[@class=&quot;mb-5 rounded&quot;]/div[@class=&quot;flex items-center&quot;]/input[@class=&quot;mr-1.5 cursor-pointer disabled:bg-gray-200 disabled:cursor-not-allowed rounded&quot;]</value>
+      <webElementGuid>22a81659-0a5f-4f2d-acd2-fe10cfca78ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='checkbox']</value>
+      <webElementGuid>41442fa4-0371-4b36-ab9c-be0ea987bf76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/div[2]/div/form/div/div/div[9]/div/input</value>
+      <webElementGuid>a33bb930-e1bc-4ac3-b6c1-538f18c733ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/input</value>
+      <webElementGuid>c38501ef-e1b5-40ab-b59f-acb9e18d47f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>685a3a56-c5cb-4fb8-91c1-bd856cd5582c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

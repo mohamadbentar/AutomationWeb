@@ -1,0 +1,18 @@
+{
+  "keywordFileContentHash": "DC3A23E68E0A829F5B9CD2D64C7B79E4",
+  "keywordClasses": [
+    {
+      "name": "register_tanpa_npwp",
+      "keywordMethods": []
+    },
+    {
+      "name": "register_dengan_npwp",
+      "keywordMethods": []
+    },
+    {
+      "name": "register_dengan_nik",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

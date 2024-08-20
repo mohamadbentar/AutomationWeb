@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tanggal_lahir</name>
+   <tag></tag>
+   <elementGuidId>4b0437b6-6ff0-4607-8edc-985f57d4059e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[73]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>92f032c1-d53f-4949-b5c4-2d5c31bfeb38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dp__cell_inner dp__pointer dp__date_hover</value>
+      <webElementGuid>11aa521a-e3c4-43d3-8165-a2e061c460a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>0c516ff8-56d2-4c7d-91c2-c5a2e3af61cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;dp__menu dp__menu_index dp__theme_light&quot;]/div[2]/div[@class=&quot;dp__instance_calendar&quot;]/div[1]/div[1]/div[@class=&quot;dp__calendar&quot;]/div[1]/div[@class=&quot;dp__calendar_wrap&quot;]/div[@class=&quot;dp__calendar&quot;]/div[@class=&quot;dp__calendar_row&quot;]/div[@class=&quot;dp__calendar_item&quot;]/div[@class=&quot;dp__cell_inner dp__pointer dp__date_hover&quot;]</value>
+      <webElementGuid>a0a99cba-4225-4455-9443-2fa53035bebb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[73]</value>
+      <webElementGuid>c7c51347-a3b5-4a29-a511-b1892f1b6f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[1]/preceding::div[73]</value>
+      <webElementGuid>2497397f-22e9-4fc1-8631-da1077ee3765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>ce3142be-9520-4d2e-b4d4-ce98224c5c27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div</value>
+      <webElementGuid>7d5ad862-c640-407d-9a23-43ad4cb76f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1' or . = '1')]</value>
+      <webElementGuid>4bb095f6-6fad-4d67-928d-ba55d36aa0ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

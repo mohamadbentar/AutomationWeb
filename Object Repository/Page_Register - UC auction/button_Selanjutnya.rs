@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Selanjutnya</name>
+   <tag></tag>
+   <elementGuidId>b9d00655-72c6-49f9-8b21-a8201da404d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/div[2]/div/form/div[2]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>91e52e2e-9ac2-4d4c-8f72-0880e6ac8c22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-primary hover:bg-amber-400 text-black leading-none transition-colors duration-300 py-3.5 px-2  rounded disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center max-w-[200px] w-full</value>
+      <webElementGuid>3741ad77-777a-459a-a97e-afa504845926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selanjutnya</value>
+      <webElementGuid>d4ce60f3-3004-470d-b725-e9856f7cf14b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;grid grid-cols-6&quot;]/div[@class=&quot;col-span-6 lg:col-span-4&quot;]/div[@class=&quot;pt-[50px] pb-[30px] lg:overflow-y-auto lg:h-screen&quot;]/div[@class=&quot;container max-w-3xl mx-auto&quot;]/div[2]/div[1]/form[1]/div[@class=&quot;flex justify-center space-x-[30px]&quot;]/button[@class=&quot;bg-primary hover:bg-amber-400 text-black leading-none transition-colors duration-300 py-3.5 px-2  rounded disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center max-w-[200px] w-full&quot;]</value>
+      <webElementGuid>d957267e-24b1-49b6-927a-6e9f81ed8d80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/div[2]/div/form/div[2]/button[2]</value>
+      <webElementGuid>c97a3981-b132-4524-abd7-0e959d133e9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Kata Sandi*'])[1]/following::button[2]</value>
+      <webElementGuid>2f7edda3-fab8-4588-b634-864a2060fa73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info Nomor Rekening'])[1]/preceding::button[1]</value>
+      <webElementGuid>e0c4035e-93ea-4df1-914c-4b1edbfdab70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor rekening digunakan apabila ada pengembalian dana (refund deposit)'])[1]/preceding::button[1]</value>
+      <webElementGuid>ccd8ed82-f02f-4341-b055-9f43c2dab77f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selanjutnya']/parent::*</value>
+      <webElementGuid>5cd6e9f1-3e11-49fe-8ad3-2526422c88d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>4a2ee98f-9cf9-4298-bb5c-7f221921463e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Selanjutnya' or . = 'Selanjutnya')]</value>
+      <webElementGuid>85b4ad6d-599b-46ca-a370-233621836ab7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

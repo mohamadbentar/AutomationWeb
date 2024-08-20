@@ -1,0 +1,18 @@
+{
+  "keywordFileContentHash": "B05E4C322407175A71B3AD9AF17F7B9F",
+  "keywordClasses": [
+    {
+      "name": "filter_bank_statement",
+      "keywordMethods": []
+    },
+    {
+      "name": "terimaHO_bank_statement_finance",
+      "keywordMethods": []
+    },
+    {
+      "name": "cancelHO_bank_statement_finance",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

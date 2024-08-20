@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Kendaraan Penumpang</name>
+   <tag></tag>
+   <elementGuidId>8e0f2f52-8216-451b-9f9f-5493e75c5eb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='multiselect-option-KENDARAAN PENUMPANG']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>e2cc8549-5402-449e-a86a-02ab48cac044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center justify-start box-border text-left cursor-pointer text-base leading-snug py-1 px-3 text-gray-800 bg-gray-100</value>
+      <webElementGuid>32e574cf-c5c8-4ba0-a2c6-53045e7778f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>multiselect-option-KENDARAAN PENUMPANG</value>
+      <webElementGuid>e292088d-7823-428c-9f6e-cd33547246ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7e2f9a77-3405-4465-8f73-c4a9fc51fd15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Kendaraan Penumpang</value>
+      <webElementGuid>26a5b76b-72f5-406b-8f80-e0216a0daa61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>e7ba0d6c-d762-451a-94a9-f9d467302ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pointed</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>88d96bac-c320-4d3a-8169-54bbcd7ae599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kendaraan Penumpang</value>
+      <webElementGuid>f26aa45c-0ea4-4ad6-8e04-a2a60f1b45f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;multiselect-option-KENDARAAN PENUMPANG&quot;)</value>
+      <webElementGuid>4a4aec3a-bcf7-4278-84a2-e6448c538d9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='multiselect-option-KENDARAAN PENUMPANG']</value>
+      <webElementGuid>6a257d86-2804-41b0-bc71-8d346ca886c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='multiselect-options']/li)[52]</value>
+      <webElementGuid>39eda1e9-9739-407a-b9b6-0d1bc8c91fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kendaraan yang dicari*'])[1]/following::li[1]</value>
+      <webElementGuid>2d904b7a-350e-453b-bf16-99cea957f643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kendaraan Penumpang']/parent::*</value>
+      <webElementGuid>ece55e34-96a2-4995-8105-0c07e17d88df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[2]/ul/li</value>
+      <webElementGuid>22eb71b5-69e5-4749-87c7-1f39578e6dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'multiselect-option-KENDARAAN PENUMPANG' and (text() = 'Kendaraan Penumpang' or . = 'Kendaraan Penumpang')]</value>
+      <webElementGuid>7e35ecde-66e1-4d6c-94c5-b1892b61e6fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
